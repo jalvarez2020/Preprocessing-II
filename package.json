@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "global": "^4.3.2",
+    "global": "^4.4.0",
     "less": "^3.8.1"
   }
 }
